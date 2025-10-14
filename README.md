@@ -15,7 +15,6 @@
 ## 下载与安装
 
 - 推荐：前往 GitHub Releases 页面下载最新版本 APK。
-- SHA‑256 校验：`58be97f60bf1d8bca08a39090f535eeff148c46a158a1fb3c4634703faca0525`
 
 安装步骤：
 
