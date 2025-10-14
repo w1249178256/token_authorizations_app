@@ -57,7 +57,7 @@
 
 如果本应用对你有帮助，欢迎赞赏支持开发与维护：
 
-<img src="./doc/img.png" alt="赞赏码" width="300" />
+<img src="./img.png" alt="赞赏码" width="300" />
 
 ## 使用声明
 
