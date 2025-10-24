@@ -3,6 +3,7 @@
 面向玩家的独立 APK 应用，用于便捷管理游戏账号与角色，并获取授权 Token（含缓存与一键登录）。本仓库仅提供可安装的 APK 与使用说明，不提供源码与实现细节。
 
 [![Star This Repo](https://img.shields.io/badge/Star-如果觉得有用-ffcc00?logo=github)](#)
+[扫描报告(https://www.virustotal.com/gui/file/89a452b2c920a63522af9e9683b0ddd4d0b9727e1ffe1e902ca24505a3adc601/details)]
 
 ## 功能亮点
 
